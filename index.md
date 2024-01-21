@@ -29,7 +29,6 @@
   * Navy Reserve Centers (NRCs) - [NRC locations](https://www.mynrh.navy.mil/#/map) 🌐
 
 ## B. Promotions, Fitness Reports and Evaluations[^1]
-[^1]: Fitness Reports and Evaluations - [BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐
   * MyNavy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
   * Mid-term Counseling
     - Individual Development Plan (IDP) [[NAVPERS 1610/19](https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS_1610-19_Rev04-22.pdf?ver=nNjgGxc5HPVY0dA_ZGIQSQ%3d%3d) 🌐]
@@ -37,7 +36,6 @@
   * Reporting Senior Cumulative Average (RSCA) Tracker
 
 Reserve Enlisted Promotions[^2]
-[^2]: Reserve Enlisted Promotions - [BUPERSINST 1430.16G](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST_1430.16.pdf?ver=S88rtteDQ6v_Xw8rwAEAQA%3d%3d) 🌐
   * Meritorious Advancement Program (MAP)
 
 ## C. Awards and Recognition
@@ -62,7 +60,6 @@ Reserve Enlisted Promotions[^2]
   * Urinalysis Program Coordinator (UPC)
 
 ## F. Reserve Unit Assignment Document (RUAD) Management[^3]
-[^3]: RUAD Management - [RESPERSMAN 1000-010](https://www.navyreserve.navy.mil/Portals/35/Documents/RESPERMAN/1000%20Reserve%20Military%20Personnel/1000-010%20RUAD%20MANAGEMENT.pdf?ver=0EvJVMpXNCD8ZfCe_Yf8Bw%3d%3d) 🌐
   * Cross-Assignments
     - Cross-Assigned In (CAI)
     - Cross-Assigned Out (CAO)
@@ -189,10 +186,15 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 # 8. Readiness
 ## A. Mobilization Readiness
 
-
 ## B. Warfighting Readiness
 
 # 9. Medical
 
+
+
+<!-- BEGIN FOOTER INFORMATION -->
+[^1]: Fitness Reports and Evaluations - [BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐
+[^2]: Reserve Enlisted Promotions - [BUPERSINST 1430.16G](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST_1430.16.pdf?ver=S88rtteDQ6v_Xw8rwAEAQA%3d%3d) 🌐
+[^3]: RUAD Management - [RESPERSMAN 1000-010](https://www.navyreserve.navy.mil/Portals/35/Documents/RESPERMAN/1000%20Reserve%20Military%20Personnel/1000-010%20RUAD%20MANAGEMENT.pdf?ver=0EvJVMpXNCD8ZfCe_Yf8Bw%3d%3d) 🌐
 [^4]: Navy Leader Development Program - [NAVADMIN 254/21](https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2021/NAV21254.txt) 🌐
 [^5]: Navy Reserve Officer Leadership Training Requirements - [ALNAVRESFOR 10/22](https://www.navyreserve.navy.mil/Portals/35/Documents/ALNAVRESFOR%202022/2022%20ALNAVRESFOR%20010%20NAVY%20RESERVE%20OFFICER%20LEADERSHIP%20TRAINING%20REQUIREMENTS%20UPDATE.pdf) 🌐
