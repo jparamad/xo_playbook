@@ -178,17 +178,18 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
   * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) (CNIFR - :moneybag: AT/IDTT/ADT Schools)
 
 
-## Planning Board For Training (PB4T)
+## B. Planning Board For Training (PB4T)
   * SUPCOM Exercise Schedule (NRC - :moneybag: AT)
   * Student Implementation Plan (SIP)
   * General Military Training (GMT)
 
-## Individual Training Plan (ITP)
+## C. Individual Training Plan (ITP)
 
 # 8. Readiness
 ## A. Mobilization Readiness
 
 ## B. Warfighting Readiness
+  * RER
 
 # 9. Medical
 
