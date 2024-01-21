@@ -1,6 +1,7 @@
 # calendar
 
 |  | Officers | Enlisted | NWAE | Promotion Boards (Line/Enlisted) |
+| --- | --- | --- | --- | --- |
 | JAN | O3 |  | E7 | O6, E9 (CMC) |
 | FEB | O2 | | E4-E7 | |
 | MAR | W5, W4, W3 | E5 | E4-E6 | O5, E8/9 |
