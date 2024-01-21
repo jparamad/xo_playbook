@@ -156,15 +156,17 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 # 7. Training
 ## A. Schools
 ### **Basic**
-  * Officer Development School ([ODS](https://www.netc.navy.mil/Commands/Naval-Service-Training-Command/OTCN/ODS/) 🌐) - Newport RI
-  * Information Warfare Officer Basic Course (IWOBC) - Virginia Beach VA
-  * Cryptologic Warfare Officer Basic Course (CWOBC) - Pensacola FL
+  * Officer Development School ([ODS](https://www.netc.navy.mil/Commands/Naval-Service-Training-Command/OTCN/ODS/) 🌐) - Newport RI (NRC - :moneybag: ADT Schools)
+  * Information Warfare Officer Basic Course (IWOBC) - Virginia Beach VA (NRC - :moneybag: ADT Schools)
+  * Cryptologic Warfare Officer Basic Course (CWOBC) - Pensacola FL (NRC - :moneybag: ADT Schools)
 
 ### **Intermediate/Advanced**
 
 ### **Leadership and Professional Development**
-  * Junior Officer Professional Development (JOPD) - Ft Worth TX (CNIFR)
-  * Prospective Triad (P-CO, P-XO, P-SEL) - Ft Worth TX (CNIFR)
+  * Junior Officer Professional Development (JOPD) - Ft Worth TX (CNIFR - :moneybag: ADT Schools)
+  * Prospective Triad (P-CO, P-XO, P-SEL) - Ft Worth TX (CNIFR - moneybag: AT/IDTT)
+  * Navy Reserve Unit Management (NRUM) - Norfolk VA (CNFRC - :moneybag: AT/IDTT/ADT Schools)
+  * CNIFR Leadership Days (CNIFR - :moneybag: AT/IDTT/ADT Schools)
   * Navy Leader Development Program (NLDP)[^4]
     - Navy Reserve Officer Leadership Training[^5]
       + Reserve Intermediate Leadership Course (RILC)
@@ -173,11 +175,11 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
       + E3/E4: Foundational Leader Development Course (FLDC)
       + E5: Intermediate Leader Development Course (ILDC)
       + E6: Advanced Leader Development Course (ALDC)
-  * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) 
+  * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) (CNIFR - :moneybag: AT/IDTT/ADT Schools)
 
 
 ## Planning Board For Training (PB4T)
-  * SUPCOM Exercise Schedule
+  * SUPCOM Exercise Schedule (NRC - :moneybag: AT)
   * Student Implementation Plan (SIP)
   * General Military Training (GMT)
 
