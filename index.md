@@ -22,7 +22,6 @@
   <LI>Navy Reserve Centers (NRCs)</LI>
 </UL>
 
-
 <H2>B. Fitness Reports and Evaluations</H2>
 <UL>
   <LI>Reporting Senior Cumulative Average (RSCA) Tracker</LI>
@@ -45,14 +44,29 @@
 <UL>
   <LI>Drill Schedule</LI>
   <LI>Correspondence Log</LI>
+  <LI>Designation Letters</LI>
+  <LI>Bydir Authority</LI>
+  <LI>
+    P13:<BR>
+    - Force Execution Guidance and Reskeds
+    - Non-Locally Assigned (NLA) Personnel
+  </LI>
 </UL>
 
 <H2>E. Collaterals</H2>
 <UL>
   <LI>Awards Officer</LI>
+  <LI>Command Career Counselor (CCC)</LI>
+  <LI>Command Fitness Leader (CFL)/Assistant CFL (ACFL)</LI>
   <LI>Urinalysis Program Coordinator (UPC)</LI>
 </UL>
 
+<H2>F. Reserve Unit Assignment Document (RUAD) Management</H2>
+<UL>
+  <LI>Cross-Assignments</LI>
+  <LI>PMR</LI>
+  <LI>RFAS Codes</LI>
+</UL>
 
 <H1>2. Clearances</H1>
 
@@ -65,7 +79,7 @@
   <LI>Catalog of Navy Training Courses (CANTRAC) [<A href="https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public" target="_blank">Link</A>]</LI>
   <LI>Enterprise Navy Training Registration System (eNTRS) [<A href="https://app.prod.cetars.training.navy.mil/eNTRS/" target="_blank">Link</A>]</LI>
   <LI>Fleet Training Management and Planning System (FLTMPS) [<A href="https://ntmpsweb.dc3n.navy.mil/Fltmps/" target="_blank">Link</A>]</LI>
-  <LI>MyNavy Assignment (MNA)/Reserve Unit Assignment Document (RUAD) [<A href="https://mynavyassignment.dc3n.navy.mil/" target="_blank">Link</A>]</LI>
+  <LI>MyNavy Assignment (MNA)/RUAD [<A href="https://mynavyassignment.dc3n.navy.mil/" target="_blank">Link</A>]</LI>
   <LI>Navy Reserve Readiness Module (NRRM) [<A href="https://nrrm.nrre.navy.mil/" target="_blank">Link</A>]</LI>
   <LI>Navy Standard Information Personnel System (NSIPS) [<A href="https://www.nsips.cloud.navy.mil/" target="_blank">Link</A>]</LI>
   <LI>T-Ready</LI>
