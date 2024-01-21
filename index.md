@@ -58,7 +58,7 @@
   <LI>Bydir Authority</LI>
   <LI>
     P13:<BR>
-    - Force Execution Guidance and Reskeds
+    - Force Execution Guidance and Reskeds<BR>
     - Non-Locally Assigned (NLA) Personnel
   </LI>
 </UL>
