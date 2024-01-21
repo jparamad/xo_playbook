@@ -164,7 +164,7 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 
 ### **Leadership and Professional Development**
   * Junior Officer Professional Development (JOPD) - Ft Worth TX (CNIFR - :moneybag: ADT Schools)
-  * Prospective Triad (P-CO, P-XO, P-SEL) - Ft Worth TX (CNIFR - moneybag: AT/IDTT)
+  * Prospective Triad (P-CO, P-XO, P-SEL) - Ft Worth TX (CNIFR - :moneybag: AT/IDTT)
   * Navy Reserve Unit Management (NRUM) - Norfolk VA (CNFRC - :moneybag: AT/IDTT/ADT Schools)
   * CNIFR Leadership Days (CNIFR - :moneybag: AT/IDTT/ADT Schools)
   * Navy Leader Development Program (NLDP)[^4]
