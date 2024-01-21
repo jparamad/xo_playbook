@@ -29,6 +29,17 @@
 </UL>
 
 <H2>C. Awards and Recognition</H2>
+<UL>
+  <LI>
+    <P>Personal Awards. SUPCOM</P>
+  </LI>
+  <LI>
+    <P>Unit Awards. SUPCOM</P>
+  </LI>
+  <LI>
+    <P>Region Awards. REDCOM</P>
+  </LI>
+</UL>
 
 <H2>D. Unit Admin</H2>
 <UL>
@@ -50,12 +61,13 @@
 <H1>4. Communications and Systems</H1>
 
 <UL>
-  <LI>Catalog of Navy Training Courses (CANTRAC) - <A href="https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public" target="_blank">https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public</A></LI>
-  <LI>Enterprise Navy Training Registration System (eNTRS) - <A href="https://app.prod.cetars.training.navy.mil/eNTRS/" target="_blank">https://app.prod.cetars.training.navy.mil/eNTRS/</A></LI>
-  <LI>Fleet Training Management and Planning System (FLTMPS) - <A href="https://ntmpsweb.dc3n.navy.mil/Fltmps/" target="_blank">https://ntmpsweb.dc3n.navy.mil/Fltmps/</A></LI>
-  <LI>MyNavy Assignment (MNA)/Reserve Unit Assignment Document (RUAD) = <A href="https://mynavyassignment.dc3n.navy.mil/" target="_blank">https://mynavyassignment.dc3n.navy.mil/</A></LI>
-  <LI>Navy Reserve Readiness Module (NRRM) - <A href="https://nrrm.nrre.navy.mil/" target="_blank">https://nrrm.nrre.navy.mil/</A></LI>
-  <LI>Navy Standard Information Personnel System (NSIPS) - <A href="https://www.nsips.cloud.navy.mil/" target="_blank">https://www.nsips.cloud.navy.mil/</A></LI>
+  <LI>Bupers Online (BOL) [<A href="https://www.bol.navy.mil" target="_blank">Link</A>]</LI>
+  <LI>Catalog of Navy Training Courses (CANTRAC) [<A href="https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public" target="_blank">Link</A>]</LI>
+  <LI>Enterprise Navy Training Registration System (eNTRS) [<A href="https://app.prod.cetars.training.navy.mil/eNTRS/" target="_blank">Link</A>]</LI>
+  <LI>Fleet Training Management and Planning System (FLTMPS) [<A href="https://ntmpsweb.dc3n.navy.mil/Fltmps/" target="_blank">Link</A>]</LI>
+  <LI>MyNavy Assignment (MNA)/Reserve Unit Assignment Document (RUAD) [<A href="https://mynavyassignment.dc3n.navy.mil/" target="_blank">Link</A>]</LI>
+  <LI>Navy Reserve Readiness Module (NRRM) [<A href="https://nrrm.nrre.navy.mil/" target="_blank">Link</A>]</LI>
+  <LI>Navy Standard Information Personnel System (NSIPS) [<A href="https://www.nsips.cloud.navy.mil/" target="_blank">Link</A>]</LI>
   <LI>T-Ready</LI>
 </UL>
 
