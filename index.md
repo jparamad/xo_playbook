@@ -27,7 +27,8 @@
   <LI>Navy Reserve Centers (NRCs)</LI>
 </UL>
 
-##B. Fitness Reports and Evaluations [BUPERSINST [1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d)🌐]
+##B. Fitness Reports and Evaluations[^1]
+[^1]: [BUPERSINST [1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d)🌐]
 <UL>
   <LI>My Navy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/)🌐]
   <LI>
@@ -84,7 +85,7 @@
 
 #4. Communications and Systems
 <UL>
-  <LI>Bupers Online (BOL) [[Link] (https://www.bol.navy.mil)]</LI>
+  <LI>BUPERS Online (BOL) [[Link] (https://www.bol.navy.mil)]</LI>
   <LI>Catalog of Navy Training Courses (CANTRAC) [[Link](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public)🔒]</LI>
   <LI>Enterprise Navy Training Registration System (eNTRS) [[Link](https://app.prod.cetars.training.navy.mil/eNTRS/)🔒]</LI>
   <LI>Fleet Training Management and Planning System (FLTMPS) [[Link](https://ntmpsweb.dc3n.navy.mil/Fltmps/)🔒]</LI>
