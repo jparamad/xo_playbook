@@ -27,12 +27,15 @@
   * Navy Reserve Centers (NRCs) - View NRC locations via [MyNRH](https://www.mynrh.navy.mil/#/map) 🌐
 
 ## B. Fitness Reports and Evaluations[^1]
-[^1]: [[BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐]
-  * My Navy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
+[^1]: Fitness Reports and Evaluations - [BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐
+  * MyNavy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
   * Mid-term Counseling
     - Individual Development Plan (IDP) [[NAVPERS 1610/19](https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS_1610-19_Rev04-22.pdf?ver=nNjgGxc5HPVY0dA_ZGIQSQ%3d%3d) 🌐]
     - Counseling Checklist [[NAVPERS 1610/20](https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS%201610-20_10-2021.pdf?ver=uOluGqH1lqvWK7XyIPQs8A%3d%3d) 🌐]
   * Reporting Senior Cumulative Average (RSCA) Tracker
+
+Reserve Enlisted Promotions[^2]
+[^2]: Reserve Enlisted Promotions - [BUPERSINST 1430.16G](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST_1430.16.pdf?ver=S88rtteDQ6v_Xw8rwAEAQA%3d%3d) 🌐
 
 ## C. Awards and Recognition
   * Personal Awards. SUPCOM
@@ -47,6 +50,7 @@
   * P13:<BR>
     - Force Execution Guidance and Reskeds
     - Non-Locally Assigned (NLA) Personnel
+  * Command Pay/Personnel Administrator ([CPPA](https://www.mynavyhr.navy.mil/Support-Services/MyNavy-Career-Center/Pers-Pay-Support/CPPA-Resources/) 🌐)
 
 ## E. Collaterals
   * Awards Officer
@@ -54,8 +58,8 @@
   * Command Fitness Leader (CFL)/Assistant CFL (ACFL)
   * Urinalysis Program Coordinator (UPC)
 
-## F. Reserve Unit Assignment Document (RUAD) Management[^2]
-[^2]: [[RESPERSMAN 1000-010](https://www.navyreserve.navy.mil/Portals/35/Documents/RESPERMAN/1000%20Reserve%20Military%20Personnel/1000-010%20RUAD%20MANAGEMENT.pdf?ver=0EvJVMpXNCD8ZfCe_Yf8Bw%3d%3d) 🌐]
+## F. Reserve Unit Assignment Document (RUAD) Management[^3]
+[^3]: RUAD Management - [RESPERSMAN 1000-010](https://www.navyreserve.navy.mil/Portals/35/Documents/RESPERMAN/1000%20Reserve%20Military%20Personnel/1000-010%20RUAD%20MANAGEMENT.pdf?ver=0EvJVMpXNCD8ZfCe_Yf8Bw%3d%3d) 🌐
   * Cross-Assignments
     - Cross-Assigned In (CAI)
     - Cross-Assigned Out (CAO)
@@ -78,14 +82,16 @@
   * Catalog of Navy Training Courses ([CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public)🔒)
   * Enterprise Navy Training Registration System ([eNTRS](https://app.prod.cetars.training.navy.mil/eNTRS/) 🔒)
   * Fleet Training Management and Planning System ([FLTMPS](https://ntmpsweb.dc3n.navy.mil/Fltmps/) 🔒)
-  * MyNavy Assignment (MNA) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Navy Reserve Orders Writing System (NROWS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Navy Reserve Readiness Module (NRRM) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Navy Standard Information Personnel System (NSIPS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Operational Support Plan Additional Drill Execution Spreadsheet (OSPADES) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Total Workforce Management System (TWMS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * T-Ready - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
-  * Zip-Serve - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+
+Access the following systems via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * MyNavy Assignment (MNA)
+  * Navy Reserve Orders Writing System (NROWS)
+  * Navy Reserve Readiness Module (NRRM)
+  * Navy Standard Information Personnel System (NSIPS)
+  * Operational Support Plan Additional Drill Execution Spreadsheet (OSPADES)
+  * Total Workforce Management System (TWMS)
+  * T-Ready
+  * Zip-Serve
 ## B. General Systems
   * MyNavy Portal ([MNP](https://my.navy.mil/) 🔒)
   * MNP [Quick Links](https://my.navy.mil/quick-links.html#collapse-40) 🌐
