@@ -1,13 +1,18 @@
 # xo_playbook
 
 <H1>0. Read Aheads</H1>
+<H2>A. Navy Reserve Force</H2>
 <UL>
   <LI>COMNAVRESFORCOM NOTICE 5214 - Commander's Critical Information Requirements and Significant Events Reporting [<A href="https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/5214.pdf" target="_blank">PDF</A>]</LI>
-  <LI>Commander, Navy Information Forces Reserve (CNIFR) North Star</LI>
   <LI>FY24 Navy Reserve Force Execution Guidance [<A href="https://www.navyreserve.navy.mil/Portals/35/1001.pdf" target="_blank">PDF</A>]</LI>
   <LI>FY24 Navy Reserve Force Generation Guidance [<A href="https://www.navyreserve.navy.mil/Portals/35/1000.pdf" target="_blank">PDF</A>]</LI>
   <LI>Get Real, Get Better [<A href="https://www.mynavyhr.navy.mil/Portals/55/Support/Culture%20Resilience/Leaders_Toolkit/GRGB%20Leadership%20Behaviors.pdf?ver=__pUvkLcEsCpTMm79CV47w%3d%3d" target="_blank">PDF</A>]</LI>
   <LI>Navy Reserve Fighting Instructions (NRFI) [ALNAVRESFOR <A href="https://www.navyreserve.navy.mil/Portals/35/2022%20ALNAVRESFOR%20020%20NAVY%20RESERVE%20FIGHTING%20INSTRUCTIONS.pdf?ver=onnKJYPAKFlkVmPpAo0UZQ%3d%3d" target="_blank">020/22</A>]</LI>
+</UL>
+
+<H2>B. Navy Information Forces Reserve</H2>
+<UL>
+  <LI>Commander, Navy Information Forces Reserve (CNIFR) North Star</LI>
 </UL>
 
 <H1>1. Administration</H1>
@@ -22,8 +27,13 @@
   <LI>Navy Reserve Centers (NRCs)</LI>
 </UL>
 
-<H2>B. Fitness Reports and Evaluations</H2>
+<H2>B. Fitness Reports and Evaluations [BUPERSINST <A href="https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d" target="_blank">1610.10F CH1</A>]</H2>
 <UL>
+  <LI>My Navy HR Performance Evaluation [<A href="https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/" target="_blank">Link</A>]
+  <LI>
+    Mid-term Counseling<BR>
+    - Individual Development Plan (IDP) [NAVPERS <A href="https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS_1610-19_Rev04-22.pdf?ver=nNjgGxc5HPVY0dA_ZGIQSQ%3d%3d" target="_blank">1610/19</A>]
+    - Counseling Checklist [NAVPERS <A href="https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS%201610-20_10-2021.pdf?ver=uOluGqH1lqvWK7XyIPQs8A%3d%3d" target="_blank">1610/20</A>]
   <LI>Reporting Senior Cumulative Average (RSCA) Tracker</LI>
 </UL>
 
