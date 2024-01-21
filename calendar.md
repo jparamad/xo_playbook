@@ -1,5 +1,6 @@
 # calendar
 
+|       |       FitRep/Evals        |        |                                   |
 |       |  Officers   |  Enlisted   |  NWAE  | Promotion Boards (Line/Enlisted)  |
 |:-----:|:-----------:|:-----------:|:------:|:---------------------------------:|
 |  JAN  |     O3      |             |   E7   |           O6, E9 (CMC)            |
