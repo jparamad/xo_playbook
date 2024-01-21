@@ -1,5 +1,5 @@
 <!-- xo_playbook
-+ All information contained herein are for reference only.
++ All information contained herein are for reference only and is intended to serve as a starting point.
 + Always conduct due diligence and verify before implementing or deciding on any action or policy.
 + Consider both Operational Security (OPSEC) and sensitive or personal information, to include the compilation of information before publishing.
 
@@ -24,10 +24,10 @@
   * Readiness Commands (REDCOM)
   * Supported Commands (SUPCOM)<BR>
     - Reserve Program Directors (RPD)
-  * Navy Reserve Centers (NRCs)
+  * Navy Reserve Centers (NRCs) - View NRC locations via [MyNRH](https://www.mynrh.navy.mil/#/map) 🌐
 
 ## B. Fitness Reports and Evaluations[^1]
-[^1]: [BUPERSINST [1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐]
+[^1]: [[BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐]
   * My Navy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
   * Mid-term Counseling
     - Individual Development Plan (IDP) [[NAVPERS 1610/19](https://www.mynavyhr.navy.mil/Portals/55/Reference/Forms/NAVPERS/NAVPERS_1610-19_Rev04-22.pdf?ver=nNjgGxc5HPVY0dA_ZGIQSQ%3d%3d) 🌐]
@@ -54,18 +54,21 @@
   * Command Fitness Leader (CFL)/Assistant CFL (ACFL)
   * Urinalysis Program Coordinator (UPC)
 
-## F. Reserve Unit Assignment Document (RUAD) Management
+## F. Reserve Unit Assignment Document (RUAD) Management[^2]
+[^2]: [[RESPERSMAN 1000-010](https://www.navyreserve.navy.mil/Portals/35/Documents/RESPERMAN/1000%20Reserve%20Military%20Personnel/1000-010%20RUAD%20MANAGEMENT.pdf?ver=0EvJVMpXNCD8ZfCe_Yf8Bw%3d%3d) 🌐]
   * Cross-Assignments
     - Cross-Assigned In (CAI)
     - Cross-Assigned Out (CAO)
-  * PMR
-  * RFAS Codes
+  * Personnel Move Request (PMR)
+  * Reserve Functional Area and Sex (RFAS) Codes
 
 # 2. Clearances
 
 # 3. Operations
 
 # 4. Logistics
+  * Berthing
+  * Government Travel Charge Card (GTCC)
 
 # 5. Plans & Policy
 
@@ -75,10 +78,28 @@
   * Catalog of Navy Training Courses ([CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public)🔒)
   * Enterprise Navy Training Registration System ([eNTRS](https://app.prod.cetars.training.navy.mil/eNTRS/) 🔒)
   * Fleet Training Management and Planning System ([FLTMPS](https://ntmpsweb.dc3n.navy.mil/Fltmps/) 🔒)
-  * MyNavy Assignment ([MNA](https://mynavyassignment.dc3n.navy.mil/) 🔒)
-  * Navy Reserve Readiness Module ([NRRM](https://nrrm.nrre.navy.mil/) 🔒)
-  * Navy Standard Information Personnel System ([NSIPS](https://www.nsips.cloud.navy.mil/) 🔒)
-  * T-Ready
+  * MyNavy Assignment (MNA) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Navy Reserve Orders Writing System (NROWS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Navy Reserve Readiness Module (NRRM) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Navy Standard Information Personnel System (NSIPS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Operational Support Plan Additional Drill Execution Spreadsheet (OSPADES) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Total Workforce Management System (TWMS) - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * T-Ready - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+  * Zip-Serve - Access via [MyNRH](https://www.mynrh.navy.mil/) 🔒
+## B. General Systems
+  * MyNavy Portal ([MNP](https://my.navy.mil/) 🔒)
+  * MNP [Quick Links](https://my.navy.mil/quick-links.html#collapse-40) 🌐
+  * MyNavy Reserve Homeport ([MyNRH](https://www.mynrh.navy.mil/) 🔒)
+
+Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-links.html#collapse-40) 🌐
+  * Defense Travel System (DTS)
+  * Flank Speed
+  * milConnect
+  * myPay
+  * Navy Credentialing Opportunities Online (COOL)
+  * Navy eLearning (NeL)
+  * Physical Activity Risk Factor Questionnaire (PARFQ, NAVPERS 6110/3 Rev. 08-2021)
+  * Physical Readiness Information Management System (PRIMS)
 
 # 7. Training
 ## A. Basic Schools
@@ -95,7 +116,7 @@
 
 ## Planning Board For Training (PB4T)
   * SUPCOM Exercise Schedule
-  * Student Implelemtation Plan (SIP)
+  * Student Implementation Plan (SIP)
   * General Military Training (GMT)
 
 ## Individual Training Plan (ITP)
