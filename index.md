@@ -78,16 +78,16 @@ Reserve Enlisted Promotions[^2]
 
 # 5. Plans & Policy
 ## A. Strategic Policies
-** Congressional Legislation **
+### **Congressional Legislation**
   * National Defense Authorization Act (NDAA) ([2022](https://armedservices.house.gov/ndaa) 🌐)
 
-** White House **
+### **White House**
   * National Security Strategy (NSS) ([2022](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf) 🌐)
   * National Cybersecurity Strategy ([2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) 🌐)
   * National Space Policy ([2020](https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/12/National-Space-Policy.pdf) 🌐)
   * US Space Priorities Framework ([2021](https://www.whitehouse.gov/wp-content/uploads/2021/12/united-states-space-priorities-framework-_-december-1-2021.pdf) 🌐)
 
-** Department of Defense (DoD) **
+### **Department of Defense (DoD)**
   * National Defense Strategy (NDS) ([2022](https://media.defense.gov/2022/Oct/27/2003103845/-1/-1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF) 🌐)
   * National Defense Industrial Strategy ([2024](https://www.businessdefense.gov/docs/ndis/2023-NDIS.pdf) 🌐)
   * Quadrennial Defense Review (QDR) ([2014](https://dod.defense.gov/Portals/1/features/defenseReviews/QDR/2014_Quadrennial_Defense_Review.pdf) 🌐)
@@ -98,10 +98,10 @@ Reserve Enlisted Promotions[^2]
   * DoD Data Strategy ([2020](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF) 🌐)
   * Defense Space Strategy Summary ([2020](https://media.defense.gov/2020/Jun/17/2002317391/-1/-1/1/2020_DEFENSE_SPACE_STRATEGY_SUMMARY.PDF) 🌐)
 
-** Chairman of the Joint Chiefs of Staff (CJCS) **
+### **Chairman of the Joint Chiefs of Staff (CJCS)**
   * National Military Strategy (NMS) ([2022](https://www.jcs.mil/Portals/36/NMS%202022%20_%20Signed.pdf) 🌐)
 
-** Chief of Naval Operations (CNO) **
+### **Chief of Naval Operations (CNO)**
   * Tri-Service Maritime Strategy ([2020](https://media.defense.gov/2020/Dec/17/2002553481/-1/-1/0/TRISERVICESTRATEGY.PDF/TRISERVICESTRATEGY.PDF) 🌐)
 
 ## B. Naval Policies
