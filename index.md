@@ -169,9 +169,7 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
   * Junior Officer Professional Development (JOPD) - Ft Worth TX (CNIFR)
   * Prospective Triad (P-CO, P-XO, P-SEL) - Ft Worth TX (CNIFR)
   * Navy Leader Development Program (NLDP)[^4]
-[^4]: Navy Leader Development Program - [NAVADMIN 254/21](https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2021/NAV21254.txt) 🌐
     - Navy Reserve Officer Leadership Training[^5]
-[^5]: Navy Reserve Officer Leadership Training Requirements - [ALNAVRESFOR 10/22](https://www.navyreserve.navy.mil/Portals/35/Documents/ALNAVRESFOR%202022/2022%20ALNAVRESFOR%20010%20NAVY%20RESERVE%20OFFICER%20LEADERSHIP%20TRAINING%20REQUIREMENTS%20UPDATE.pdf) 🌐
       + Reserve Intermediate Leadership Course (RILC)
       + Senior Officer Leadership Course (SOLC)
     - Enlisted Leadership Development ([ELD](https://www.netc.navy.mil/ELD/) 🌐) [[NAVADMIN 237/23](https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2023/NAV23237.txt) 🌐]
@@ -195,3 +193,6 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 ## B. Warfighting Readiness
 
 # 9. Medical
+
+[^4]: Navy Leader Development Program - [NAVADMIN 254/21](https://www.mynavyhr.navy.mil/Portals/55/Messages/NAVADMIN/NAV2021/NAV21254.txt) 🌐
+[^5]: Navy Reserve Officer Leadership Training Requirements - [ALNAVRESFOR 10/22](https://www.navyreserve.navy.mil/Portals/35/Documents/ALNAVRESFOR%202022/2022%20ALNAVRESFOR%20010%20NAVY%20RESERVE%20OFFICER%20LEADERSHIP%20TRAINING%20REQUIREMENTS%20UPDATE.pdf) 🌐
