@@ -73,11 +73,12 @@ Reserve Enlisted Promotions[^2]
 # 4. Logistics
   * Berthing
   * Government Travel Charge Card (GTCC)
+    - Travel Card 101: TraX Training via [DTS](https://www.defensetravel.dod.mil/neoaccess/login.php) 🔒
 
 # 5. Plans & Policy
 ## A. Strategic Policies
 ### **Congressional Legislation**
-  * National Defense Authorization Act (NDAA) ([2022](https://armedservices.house.gov/ndaa) 🌐)
+  * National Defense Authorization Act (NDAA) ([2023](https://armedservices.house.gov/ndaa) 🌐)
 
 ### **White House**
   * National Security Strategy (NSS) ([2022](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf) 🌐)
@@ -176,6 +177,7 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
       + E5: Intermediate Leader Development Course (ILDC)
       + E6: Advanced Leader Development Course (ALDC)
   * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) (CNIFR - :moneybag: AT/IDTT/ADT Schools)
+    - Quota request submitted via milSuite
 
 
 ## B. Planning Board For Training (PB4T)
