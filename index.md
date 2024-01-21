@@ -9,7 +9,7 @@
 
 # 0. Read Aheads
 ## A. Navy Reserve Force
-  * Battle Orders 2023 [[PDF](https://www.mynrh.navy.mil/files/Battle%20Order%20Plan%202032-V35.pdf) 🌐]
+  * Battle Orders 2032 [[PDF](https://www.mynrh.navy.mil/files/Battle%20Order%20Plan%202032-V35.pdf) 🌐]
   * COMNAVRESFORCOM NOTICE 5214 - Commander's Critical Information Requirements and Significant Events Reporting [[PDF](https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/5214.pdf) 🌐]
   * FY24 Navy Reserve Force Execution Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/1001.pdf) 🌐]
   * FY24 Navy Reserve Force Generation Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/1000.pdf) 🌐]
@@ -17,16 +17,18 @@
   * Navy Reserve Fighting Instructions (NRFI) [[ALNAVRESFOR 020/22](https://www.navyreserve.navy.mil/Portals/35/2022%20ALNAVRESFOR%20020%20NAVY%20RESERVE%20FIGHTING%20INSTRUCTIONS.pdf?ver=onnKJYPAKFlkVmPpAo0UZQ%3d%3d) 🌐]
 
 ## B. Navy Information Forces Reserve
-  * Commander, Navy Information Forces Reserve (CNIFR) North Star
+  * Commander, Navy Information Forces Reserve (CNIFR) North Star ([PDF](https://private.navyreserve.navy.mil/cnifr/SHARED_LIBRARY/North%20Star%20-%20Final.pdf) 🔒)
+  * 2023 CNIFR Strategy ([PDF](https://private.navyreserve.navy.mil/cnifr/SHARED_LIBRARY/2023%20CNIFR%20Strategy_Final.pdf) 🔒)
+  * Operationalize CNIFR ([PDF](https://private.navyreserve.navy.mil/cnifr/SHARED_LIBRARY/CORE_OPT_Placemat.pdf) 🔒)
 
 # 1. Administration
 ## A. Organizational Structure
   * Readiness Commands (REDCOM)
   * Supported Commands (SUPCOM)<BR>
     - Reserve Program Directors (RPD)
-  * Navy Reserve Centers (NRCs) - View NRC locations via [MyNRH](https://www.mynrh.navy.mil/#/map) 🌐
+  * Navy Reserve Centers (NRCs) - [NRC locations](https://www.mynrh.navy.mil/#/map) 🌐
 
-## B. Fitness Reports and Evaluations[^1]
+## B. Promotions, Fitness Reports and Evaluations[^1]
 [^1]: Fitness Reports and Evaluations - [BUPERSINST 1610.10F CH1](https://www.mynavyhr.navy.mil/Portals/55/Reference/Instructions/BUPERS/BUPERSINST%201610.10F%20CH-1%20SIGNED%20Combined.pdf?ver=a_cGLQ8RriznhqCAUYxJzw%3d%3d) 🌐
   * MyNavy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
   * Mid-term Counseling
@@ -44,12 +46,12 @@ Reserve Enlisted Promotions[^2]
 
 ## D. Unit Admin
   * Drill Schedule
-  * Correspondence Log</LI>
-  * Designation Letters</LI>
-  * Bydir Authority</LI>
+  * Correspondence Log
+  * Designation Letters
+  * Bydir Authority
   * P13:<BR>
     - Force Execution Guidance and Reskeds
-    - Non-Locally Assigned (NLA) Personnel
+    - Non-Local Assignment (NLA) Personnel ([1300-060](https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/1300-060.pdf) 🌐)
   * Command Pay/Personnel Administrator ([CPPA](https://www.mynavyhr.navy.mil/Support-Services/MyNavy-Career-Center/Pers-Pay-Support/CPPA-Resources/) 🌐)
 
 ## E. Collaterals
@@ -75,11 +77,57 @@ Reserve Enlisted Promotions[^2]
   * Government Travel Charge Card (GTCC)
 
 # 5. Plans & Policy
+## A. Strategic Policies
+** Congressional Legislation **
+  * National Defense Authorization Act (NDAA) ([2022](https://armedservices.house.gov/ndaa) 🌐)
+
+** White House **
+  * National Security Strategy (NSS) ([2022](https://www.whitehouse.gov/wp-content/uploads/2022/10/Biden-Harris-Administrations-National-Security-Strategy-10.2022.pdf) 🌐)
+  * National Cybersecurity Strategy ([2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) 🌐)
+  * National Space Policy ([2020](https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/12/National-Space-Policy.pdf) 🌐)
+  * US Space Priorities Framework ([2021](https://www.whitehouse.gov/wp-content/uploads/2021/12/united-states-space-priorities-framework-_-december-1-2021.pdf) 🌐)
+
+** Department of Defense (DoD) **
+  * National Defense Strategy (NDS) ([2022](https://media.defense.gov/2022/Oct/27/2003103845/-1/-1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF) 🌐)
+  * National Defense Industrial Strategy ([2024](https://www.businessdefense.gov/docs/ndis/2023-NDIS.pdf) 🌐)
+  * Quadrennial Defense Review (QDR) ([2014](https://dod.defense.gov/Portals/1/features/defenseReviews/QDR/2014_Quadrennial_Defense_Review.pdf) 🌐)
+  * DoD Cyber Strategy ([2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf) 🌐)
+  * DoD Strategy for Operations in the Information Environment ([2023](https://media.defense.gov/2023/Nov/17/2003342901/-1/-1/1/2023-DEPARTMENT-OF-DEFENSE-STRATEGY-FOR-OPERATIONS-IN-THE-INFORMATION-ENVIRONMENT.PDF) 🌐)
+  * DoD Data, Analytics, and Artificial Intelligence Adoption Strategy ([2023](https://media.defense.gov/2023/Nov/02/2003333300/-1/-1/1/DOD_DATA_ANALYTICS_AI_ADOPTION_STRATEGY.PDF) 🌐)
+  * DoD Electromagnetic Spectrum Superiority Strategy ([2020](https://media.defense.gov/2020/Oct/29/2002525927/-1/-1/0/ELECTROMAGNETIC_SPECTRUM_SUPERIORITY_STRATEGY.PDF) 🌐)
+  * DoD Data Strategy ([2020](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF) 🌐)
+  * Defense Space Strategy Summary ([2020](https://media.defense.gov/2020/Jun/17/2002317391/-1/-1/1/2020_DEFENSE_SPACE_STRATEGY_SUMMARY.PDF) 🌐)
+
+** Chairman of the Joint Chiefs of Staff (CJCS) **
+  * National Military Strategy (NMS) ([2022](https://www.jcs.mil/Portals/36/NMS%202022%20_%20Signed.pdf) 🌐)
+
+** Chief of Naval Operations (CNO) **
+  * Tri-Service Maritime Strategy ([2020](https://media.defense.gov/2020/Dec/17/2002553481/-1/-1/0/TRISERVICESTRATEGY.PDF/TRISERVICESTRATEGY.PDF) 🌐)
+
+## B. Naval Policies
+  * Navy Officer Billet Classification (NOBC) and Additional Qualification Designation (AQD) Codes ([Link](https://www.mynavyhr.navy.mil/References/NOOCS-Manual/NOOCS-VOL-1/) 🌐)
+
+## C. Libraries
+  * Department of the Navy (DoN) Issuances ([Link](https://www.secnav.navy.mil/doni/allinstructions.aspx) 🌐)
+  * Joint Electronic Library ([JEL](https://www.jcs.mil/Doctrine/) 🌐)
+  * Reserve Forces (RESFOR) Guidance ([Link](https://www.navyreserve.navy.mil/Resources/Official-RESFOR-Guidance/RESPERSMAN/) 🌐)
+    - Reserve Personnel Manual (RESPERSMAN) (M1001.5)
+    - Reserve Navy Enlisted Classification (NEC) Program (1221-010)
+    - Selected Reserve Assignments (1300-010)
+    - Voluntary Training Unit (VTU) (1300-030)
+    - Readiness Support Unit (RSU) (1300-040)
+    - Non-Local Assignments (NLA) (1300-060)
+    - Directed Assignments (1300-070)
+    - Inactive Duty Training (IDT) Administration (1570-010)
+    - Annual Training (AT) and Active Duty Training (ADT) (1571-010)
+    - Manpower Availability Status (MAS) Codes (3060-010)
+    - Individual Mobilization Status (IMS) Codes (3060-010)
+    - Reserve Pay (RESPAY) (722-010)
 
 # 6. Communications and Systems
 ## A. Unit Management Systems
   * BUPERS Online ([BOL](https://www.bol.navy.mil) 🔒)
-  * Catalog of Navy Training Courses ([CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public)🔒)
+  * Catalog of Navy Training Courses ([CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public) 🔒)
   * Enterprise Navy Training Registration System ([eNTRS](https://app.prod.cetars.training.navy.mil/eNTRS/) 🔒)
   * Fleet Training Management and Planning System ([FLTMPS](https://ntmpsweb.dc3n.navy.mil/Fltmps/) 🔒)
 
