@@ -36,7 +36,8 @@
   * Reporting Senior Cumulative Average (RSCA) Tracker
 
 Reserve Enlisted Promotions[^2]
-  * Meritorious Advancement Program (MAP)
+  * Enlisted Advancement Worksheet ([EAW](https://www.mynavyhr.navy.mil/Career-Management/Community-Management/Enlisted-Career-Admin/Advancement/EAW/) 🌐)
+  * Meritorious Advancement Program ([MAP](https://www.mynavyhr.navy.mil/Career-Management/Community-Management/Enlisted-Career-Admin/Advancement/MAP/) 🌐)
 
 ## C. Awards and Recognition
   * Personal Awards. SUPCOM
@@ -44,6 +45,10 @@ Reserve Enlisted Promotions[^2]
   * Region Awards. REDCOM
 
 ## D. Unit Admin
+  * Onboarding/Indoctrination
+    - New Joins
+      + Direct Commissioned Officer (DCO)
+      + Prior Service Re-enlistment Eligibility – Reserve (PRISE-R)
   * Drill Schedule
   * Correspondence Log
   * Designation Letters
@@ -56,6 +61,9 @@ Reserve Enlisted Promotions[^2]
 ## E. Collaterals
   * Awards Officer
   * Command Career Counselor (CCC)
+    - Enlisted Career Management for Information Warfare Community (IWC) [[Link](https://www.mynavyhr.navy.mil/Career-Management/Community-Management/Enlisted/Information-Warfare/) 🌐]
+      + Navy Enlisted Advancement System (NEAS)
+      + [Resources](https://www.mynavyhr.navy.mil/Career-Management/Career-Counseling/Resources/) 🌐
   * Command Fitness Leader (CFL)/Assistant CFL (ACFL)
   * Urinalysis Program Coordinator (UPC)
 
@@ -67,6 +75,9 @@ Reserve Enlisted Promotions[^2]
   * Reserve Functional Area and Sex (RFAS) Codes
 
 # 2. Clearances
+## A. Badging and Access (SUPCOM)
+## B. Systems and Accounts (SUPCOM)
+## C. SSO (REDCOM)
 
 # 3. Operations
 
@@ -104,6 +115,7 @@ Reserve Enlisted Promotions[^2]
   * Tri-Service Maritime Strategy ([2020](https://media.defense.gov/2020/Dec/17/2002553481/-1/-1/0/TRISERVICESTRATEGY.PDF/TRISERVICESTRATEGY.PDF) 🌐)
 
 ## B. Naval Policies
+  * CNIFR
   * Navy Officer Billet Classification (NOBC) and Additional Qualification Designation (AQD) Codes ([Link](https://www.mynavyhr.navy.mil/References/NOOCS-Manual/NOOCS-VOL-1/) 🌐)
 
 ## C. Libraries
@@ -126,6 +138,7 @@ Reserve Enlisted Promotions[^2]
 # 6. Communications and Systems
 ## A. Unit Management Systems
   * BUPERS Online ([BOL](https://www.bol.navy.mil) 🔒)
+    - Career Waypoint System (C-WAY)
   * Catalog of Navy Training Courses ([CANTRAC](https://app.prod.cetars.training.navy.mil/cantrac/vol2.html?utm_source=mnp%20public) 🔒)
   * Enterprise Navy Training Registration System ([eNTRS](https://app.prod.cetars.training.navy.mil/eNTRS/) 🔒)
   * Fleet Training Management and Planning System ([FLTMPS](https://ntmpsweb.dc3n.navy.mil/Fltmps/) 🔒)
@@ -135,6 +148,8 @@ Access the following systems via [MyNRH](https://www.mynrh.navy.mil/) 🔒
   * Navy Reserve Orders Writing System (NROWS)
   * Navy Reserve Readiness Module (NRRM)
   * Navy Standard Information Personnel System (NSIPS)
+    - Career Information Management System (CIMS)
+    - Navy Retention Monitoring System (NRMS)
   * Operational Support Plan Additional Drill Execution Spreadsheet (OSPADES)
   * Total Workforce Management System (TWMS)
   * T-Ready
@@ -162,6 +177,8 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
   * Cryptologic Warfare Officer Basic Course (CWOBC) - Pensacola FL (NRC - :moneybag: ADT Schools)
 
 ### **Intermediate/Advanced**
+  * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) (CNIFR - :moneybag: AT/IDTT/ADT Schools)
+    - Quota request submitted via milSuite
 
 ### **Leadership and Professional Development**
   * Junior Officer Professional Development (JOPD) - Ft Worth TX (CNIFR - :moneybag: ADT Schools)
@@ -176,9 +193,6 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
       + E3/E4: Foundational Leader Development Course (FLDC)
       + E5: Intermediate Leader Development Course (ILDC)
       + E6: Advanced Leader Development Course (ALDC)
-  * Information Warfare Officer Intermediate Course (IWOIC) - Virginia Beach VA (ITWC) (CNIFR - :moneybag: AT/IDTT/ADT Schools)
-    - Quota request submitted via milSuite
-
 
 ## B. Planning Board For Training (PB4T)
   * SUPCOM Exercise Schedule (NRC - :moneybag: AT)
@@ -188,13 +202,15 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 ## C. Individual Training Plan (ITP)
 
 # 8. Readiness
-## A. Mobilization Readiness
+## A. Mobilization Readiness (NRC)
+  * Medical
+  * GMT
 
-## B. Warfighting Readiness
+## B. Warfighting Readiness (CNIFR/SUPCOM)
   * RER
 
 # 9. Medical
-
+  * Medical Hit Lists (NRC)
 
 
 <!-- BEGIN FOOTER INFORMATION -->
