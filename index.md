@@ -86,7 +86,7 @@ Reserve Enlisted Promotions[^2]
 # 2. Clearances
 ## A. Badging and Access (SUPCOM)
 ## B. Systems and Accounts (SUPCOM)
-## C. SSO (REDCOM)
+## C. SSO (REDCEN)
 
 # 3. Operations
 
