@@ -15,6 +15,7 @@
 |  NOV  |             |     E6      |          |                O7, O8                |
 |  DEC  |             |             |          |                                      |
 
+<!-- BEGIN FOOTER INFORMATION -->
 [^1]: [Reserve Officer Promotion Selection Boards](https://www.mynavyhr.navy.mil/Career-Management/Boards/Reserve-Officer/) 🌐
 [^2]: [Enlisted Career Administration](https://www.mynavyhr.navy.mil/Career-Management/Community-Management/Enlisted-Career-Admin/Advancement/) 🌐
 [^3]: [FY-25 Board Schedule](https://www.mynavyhr.navy.mil/Portals/55/Boards/Selection/FY25%20WEB.pdf?ver=vL6vWAS6y9qUfcHs_QGyuQ%3d%3d) 🌐

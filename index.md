@@ -23,10 +23,11 @@
 
 # 1. Administration
 ## A. Organizational Structure
-  * Readiness Commands (REDCOM)
+  * CNIFR EchIII
+  * Readiness Centers (REDCEN) EchIV - [NIFR REDCEN locations](https://www.mynavyhr.navy.mil/Portals/55/Career/OCM/Reserve/NIFR_REGIONS.pdf?ver=5P6qeq_qi7Ip3qpGnUp-Og%3d%3d) 🌐
+    - Navy Reserve Centers (NRCs) - [NRC locations](https://www.mynrh.navy.mil/#/map) 🌐
   * Supported Commands (SUPCOM)<BR>
     - Reserve Program Directors (RPD)
-  * Navy Reserve Centers (NRCs) - [NRC locations](https://www.mynrh.navy.mil/#/map) 🌐
 
 ## B. Promotions, Fitness Reports and Evaluations[^1]
   * MyNavy HR Performance Evaluation [[Link](https://www.mynavyhr.navy.mil/Career-Management/Performance-Evaluation/) 🌐]
@@ -42,7 +43,13 @@ Reserve Enlisted Promotions[^2]
 ## C. Awards and Recognition
   * Personal Awards. SUPCOM
   * Unit Awards. SUPCOM
-  * Region Awards. REDCOM
+  * Commander, Navy Reserve Forces (CNRF) Awards
+    - AUSN JOY Award ([COMNAVRESFORCOMINST 1650.3C CH-1](https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/CNRFC%201650.3C%20CH-1000.pdf) 🌐)
+    - RC Sailor of the Year Program ([COMNAVRESFORINST 1700.1P](https://www.navyreserve.navy.mil/Portals/35/Documents/Reserve%20Instructions/CNRF/1700.1P.pdf) 🌐)
+    - CNRF Career Counselor of the Year ([COMNAVRESFORINST 1700.7C](https://www.navyreserve.navy.mil/Portals/35/Documents/Reserve%20Instructions/CNRF/1700.7C.pdf?ver=UrHh5tkV4Rw%3d) 🌐)
+  * Commander, Navy Information Forces Reserve (CNIFR) Awards.
+    - CNIFR Awards & Recognition Program ([COMNAVIFORESINST 1650.4P](https://private.navyreserve.navy.mil/cnifr/AdminCmdSvcs/INSTRUCTIONS/COMNAVIFORESINST%201650.4P.pdf) 🔒)
+    - Sailor of the Quarter/Year Program ([COMIDCRESCOMINST 1700.2A](https://private.navyreserve.navy.mil/cnifr/awards/Award%20Instructions/COMNAVIFORESINST%201700.2A%20-%20SOY-SOQ%20PROGRAM.pdf) 🔒)
 
 ## D. Unit Admin
   * Onboarding/Indoctrination
@@ -65,6 +72,8 @@ Reserve Enlisted Promotions[^2]
       + Navy Enlisted Advancement System (NEAS)
       + [Resources](https://www.mynavyhr.navy.mil/Career-Management/Career-Counseling/Resources/) 🌐
   * Command Fitness Leader (CFL)/Assistant CFL (ACFL)
+  * Special Security Representative (SSR)
+  * Suicide Prevention/Sexual Assault Prevention and Response (SAPR)
   * Urinalysis Program Coordinator (UPC)
 
 ## F. Reserve Unit Assignment Document (RUAD) Management[^3]
@@ -200,6 +209,9 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
   * General Military Training (GMT)
 
 ## C. Individual Training Plan (ITP)
+  * PQS
+  * JQR
+  * AQD
 
 # 8. Readiness
 ## A. Mobilization Readiness (NRC)
