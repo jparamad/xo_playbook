@@ -6,7 +6,7 @@
     + [ ] IO
     + [ ] UPC
   - [ ] FY Drill Schedule (Annual)
-    + Evaluate alignement with NRC Blue/Gold schedule and JRIC access
+    + Evaluate alignment with NRC Blue/Gold schedule and JRIC access
   - Systems Access
     + [ ] eNTRS
     + [ ] FLTMPS
