@@ -163,6 +163,7 @@ Access the following systems via [MyNRH](https://www.mynrh.navy.mil/) 🔒
   * Total Workforce Management System (TWMS)
   * T-Ready
   * Zip-Serve
+
 ## B. General Systems
   * MyNavy Portal ([MNP](https://my.navy.mil/) 🔒)
   * MNP [Quick Links](https://my.navy.mil/quick-links.html#collapse-40) 🌐
@@ -177,6 +178,10 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
   * Navy eLearning (NeL)
   * Physical Activity Risk Factor Questionnaire (PARFQ, NAVPERS 6110/3 Rev. 08-2021)
   * Physical Readiness Information Management System (PRIMS)
+
+## C. Self-Managed Resources
+  * DoD Certs & PKI ([Cyber Exchange](https://public.cyber.mil/pki-pke/tools-configuration-files/) 🌐)
+    - InstallRoot
 
 # 7. Training
 ## A. Schools
@@ -215,11 +220,13 @@ Access the following systems via [MNP Quick Links](https://my.navy.mil/quick-lin
 
 # 8. Readiness
 ## A. Mobilization Readiness (NRC)
-  * Medical
+  * Medical/Dental - Individual Medial Readiness (IMR)
+  * Periodic Health Assessment ([PHA](https://eha.health.mil/eha))
+  * Physical Fitness Assessment (PFA)
   * GMT
 
 ## B. Warfighting Readiness (CNIFR/SUPCOM)
-  * RER
+  * Reserve Employment Readiness (RER) tool
 
 # 9. Medical
   * Medical Hit Lists (NRC)
