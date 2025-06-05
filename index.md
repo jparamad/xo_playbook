@@ -11,10 +11,11 @@
 ## A. Navy Reserve Force
   * Battle Orders 2032 [[PDF](https://www.mynrh.navy.mil/files/Battle%20Order%20Plan%202032-V35.pdf) 🌐]
   * COMNAVRESFORCOM NOTICE 5214 - Commander's Critical Information Requirements and Significant Events Reporting [[PDF](https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/5214.pdf) 🌐]
-  * FY24 Navy Reserve Force Execution Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/1001.pdf) 🌐]
-  * FY24 Navy Reserve Force Generation Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/1000.pdf) 🌐]
+  * FY25 Navy Reserve Force Execution Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/UPDATED%20FY25%20FORCE%20EXECUTION%20GUIDANCE.pdf) 🌐]
+  * FY25 Navy Reserve Force Generation Guidance [[PDF](https://www.navyreserve.navy.mil/Portals/35/COMNAVRESFORNOTE%201000%20FY25%20FORCE%20GENERATION%20GUIDANCE%20SIGNED.pdf) 🌐]
   * Get Real, Get Better [[PDF](https://www.mynavyhr.navy.mil/Portals/55/Support/Culture%20Resilience/Leaders_Toolkit/GRGB%20Leadership%20Behaviors.pdf?ver=__pUvkLcEsCpTMm79CV47w%3d%3d) 🌐]
-  * Navy Reserve Fighting Instructions (NRFI) [[ALNAVRESFOR 020/22](https://www.navyreserve.navy.mil/Portals/35/2022%20ALNAVRESFOR%20020%20NAVY%20RESERVE%20FIGHTING%20INSTRUCTIONS.pdf?ver=onnKJYPAKFlkVmPpAo0UZQ%3d%3d) 🌐]
+  * Navy Reserve Fighting Instructions (NRFI) 2024 [[PDF] (https://www.navyreserve.navy.mil/News/Article-View-News/Article/3710956/navy-reserve-fighting-instructions-what-every-selres-sailor-needs-to-know/) 🌐]
+  * Navy Reserve Strategic Advantage Task Message [[ALNAVRESFOR 002/25]  (https://www.navyreserve.navy.mil/Portals/35/2025%20ALNAVRESFOR%20002%20NAVY%20RESERVE%20STRATEGIC%20ADVANTAGE%20TASKING%20MESSAGE%20.pdf) 🌐]
 
 ## B. Navy Information Forces Reserve
   * Commander, Navy Information Forces Reserve (CNIFR) North Star ([PDF](https://private.navyreserve.navy.mil/cnifr/SHARED_LIBRARY/North%20Star%20-%20Final.pdf) 🔒)
@@ -46,7 +47,7 @@ Reserve Enlisted Promotions[^2]
   * Commander, Navy Reserve Forces (CNRF) Awards
     - AUSN JOY Award ([COMNAVRESFORCOMINST 1650.3C CH-1](https://www.navyreserve.navy.mil/Portals/35/Users/041/97/297/CNRFC%201650.3C%20CH-1000.pdf) 🌐)
     - RC Sailor of the Year Program ([COMNAVRESFORINST 1700.1P](https://www.navyreserve.navy.mil/Portals/35/Documents/Reserve%20Instructions/CNRF/1700.1P.pdf) 🌐)
-    - CNRF Career Counselor of the Year ([COMNAVRESFORINST 1700.7C](https://www.navyreserve.navy.mil/Portals/35/Documents/Reserve%20Instructions/CNRF/1700.7C.pdf?ver=UrHh5tkV4Rw%3d) 🌐)
+    - CNFR Career Counselor of the Year ([COMNAVRESFORINST 1700.7C](https://www.navyreserve.navy.mil/Portals/35/Documents/Reserve%20Instructions/CNRF/1700.7C.pdf?ver=UrHh5tkV4Rw%3d) 🌐)
   * Commander, Navy Information Forces Reserve (CNIFR) Awards.
     - CNIFR Awards & Recognition Program ([COMNAVIFORESINST 1650.4P](https://private.navyreserve.navy.mil/cnifr/AdminCmdSvcs/INSTRUCTIONS/COMNAVIFORESINST%201650.4P.pdf) 🔒)
     - Sailor of the Quarter/Year Program ([COMIDCRESCOMINST 1700.2A](https://private.navyreserve.navy.mil/cnifr/awards/Award%20Instructions/COMNAVIFORESINST%201700.2A%20-%20SOY-SOQ%20PROGRAM.pdf) 🔒)
@@ -77,7 +78,7 @@ Reserve Enlisted Promotions[^2]
   * Urinalysis Program Coordinator (UPC)
 
 ## F. Reserve Unit Assignment Document (RUAD) Management[^3]
-  * Cross-Assignments
+  * NLA
     - Cross-Assigned In (CAI)
     - Cross-Assigned Out (CAO)
   * Personnel Move Request (PMR)
