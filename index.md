@@ -123,6 +123,9 @@ Reserve Enlisted Promotions[^2]
 
 ### **Chief of Naval Operations (CNO)**
   * Tri-Service Maritime Strategy ([2020](https://media.defense.gov/2020/Dec/17/2002553481/-1/-1/0/TRISERVICESTRATEGY.PDF/TRISERVICESTRATEGY.PDF) 🌐)
+  * Charge of Command ([2024](https://media.defense.gov/2020/May/18/2002302036/-1/-1/1/NLDF3MAY19.PDF) 🌐)
+  * Navy Development Leader Framework (NLDF) ([2025](https://www.mynavyhr.navy.mil/Support-Services/Culture-Resilience/Leaders-Toolkit/Navy-Leader-Development/) 🌐)
+  * Warrior Toughness ([2024)(https://www.mynavyhr.navy.mil/Portals/55/Support/Culture%20Resilience/COE/Warrior_Toughness_Placemat.pdf)🌐)
 
 ## B. Naval Policies
   * CNIFR
